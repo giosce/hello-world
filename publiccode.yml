@@ -1,0 +1,53 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: test
+applicationSuite: test
+categories:
+  - financial-reporting
+url: 'https://github.com/giosce/hello-world'
+releaseDate: '2020-09-28'
+developmentStatus: concept
+softwareType: standalone/web
+platforms:
+  - web
+maintenance:
+  type: internal
+  contacts:
+    - name: Gio
+legal:
+  license: Apache-2.0
+intendedAudience:
+  scope:
+    - government
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - it
+    - en
+description:
+  us:
+    genericName: more test
+    shortDescription: A publiccode test
+    features:
+      - a feature
+    longDescription: >
+      Some long description, I hope there is not a minimum, yes, minimum is 500
+      characters and I think that it at least one line in this form
+
+
+      aiouerwiou efw';lkvsdojsdfkjvsd
+
+
+      iojsdfsdikljvdsd ssxvjsvdspokjvsdknb apofdjjnj gfposjdkg;sojkdkjngpojewna
+      dpojgjdpioenp hapodjdjl oiajjdh
+
+
+      vsliijfds;l pojaknd popj jadijt nk;okg sknaijurndlksgnspokdnjgos
+      mgpsdojejn gspojdjnalokjt djkhgpoajrgpj
+
+
+      skljsdf sgvijsdf ijbvfxlkjxc poj xlkjsdiojsvsnkbpobjg szijxvidjnv;ojb
+      sijdnggosh pojjhdklng poaedjijn apdkhgt epojjnad
