@@ -1,0 +1,30 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+name: test
+url: 'http://giosce.html'
+developmentStatus: concept
+softwareType: standalone/backend
+platforms:
+  - web
+skills:
+  - Adobe Photoshop
+Technologies:
+  - Data Analyst
+categories:
+  - agile-project-management
+legal:
+  license: AAL
+intendedAudience:
+  scope:
+    - 2nd-amendement
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - en
+description:
+  us:
+    genericName: test
+    shortDescription: some description
